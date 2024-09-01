@@ -1,25 +1,34 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+[//]: # (subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a 4th year PhD student at [Dartmouth College](https://web.cs.dartmouth.edu), advised by [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/).
+Currently, I am a research intern at [Nokia Bell Labs (Cambridge, UK)](https://www.bell-labs.com/about/locations/cambridge-uk/#gref) for the Summer 2024. Before my PhD,
+I worked as a AI & Data Graduate Scientist at AstraZenca.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interdisciplinary research enables the examination of mental health and behavior of individuals through mobile sensing and robust machine learning. In particular, I am interested in 
+these two areas:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+1. **AI for Mental Health**: I develop models from different modalities to evaluate the presence of mental illness symptoms:
+(a) rare life events for <ins>sensor</ins> data [[CHIL'23]](https://proceedings.mlr.press/v209/pillai23a.html), 
+(b) suicidal ideation detection from <ins>speech</ins> [[UbiComp'24]](https://dl.acm.org/doi/abs/10.1145/3631452), 
+and (c) depression detection from front-facing smartphone <ins>images</ins> [[CHI'24]](https://dl.acm.org/doi/full/10.1145/3613904.3642680).
+
+2. **Robust ML**: I like analyzing how healthcare ML models perform when tested against out-of-distribution data. In general, 
+these models do not perform well, and proposing algorithms to address this issue is very interesting. 
+To this end, I have investigated the generalization of speech-based suicidal ideation detection [[UbiComp'24]](https://dl.acm.org/doi/abs/10.1145/3631452).
+
+
+

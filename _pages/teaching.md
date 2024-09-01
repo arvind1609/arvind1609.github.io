@@ -1,12 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+---
+![My Photo](../assets/img/dartmouth_logo.png)\
+**Head TA, Dartmouth College** \
+CS1 - Introduction to Programming and Computation | Spring 2024 (Prof. Andrew Campebell)\
+CS1 - Introduction to Programming and Computation | Spring 2023 (Prof. Andrew Campebell)\
+CS1 - Introduction to Programming and Computation | Spring 2022 (Prof. Andrew Campebell)\
+CS1 - Introduction to Programming and Computation | Fall 2021 (Prof. Vasanta Kommineni)
