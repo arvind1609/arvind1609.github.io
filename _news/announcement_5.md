@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-10
+date: 2024-10-08
 inline: true
 related_posts: false
 ---
 
-:mic: Presented "Investigating Generalizability of Speech-Based Suicidal Ideation Detection Using Mobile Phones" @ Ubicomp 2024
+:microphone: Presented "Investigating Generalizability of Speech-Based Suicidal Ideation Detection Using Mobile Phones" @ Ubicomp 2024
