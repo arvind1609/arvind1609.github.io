@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bird: PaPaGei will be presented at the NeurIPS TSALM workshop
+:bird: [PaPaGei](https://openreview.net/pdf?id=kYwTmlq6Vn) will be presented at the NeurIPS TSALM workshop.
