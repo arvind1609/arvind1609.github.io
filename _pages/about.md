@@ -15,8 +15,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a 4th year PhD student at [Dartmouth College](https://web.cs.dartmouth.edu), advised by [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/).
-Currently, I am a research intern at [Nokia Bell Labs (Cambridge, UK)](https://www.bell-labs.com/about/locations/cambridge-uk/#gref) for the Summer 2024. Before my PhD,
-I worked as a AI & Data Graduate Scientist at AstraZenca.
+Previously, I was a research intern at [Nokia Bell Labs (Cambridge, UK)](https://www.bell-labs.com/about/locations/cambridge-uk/#gref) (Summer 2024), and 
+a AI & Data Graduate Scientist at AstraZeneca (2019-2021).
 
 My interdisciplinary research enables the examination of mental health and behavior of individuals through mobile sensing and robust machine learning. In particular, I am interested in 
 these two areas:
@@ -26,7 +26,7 @@ these two areas:
 (b) suicidal ideation detection from <ins>speech</ins> [[UbiComp'24]](https://dl.acm.org/doi/abs/10.1145/3631452), 
 and (c) depression detection from front-facing smartphone <ins>images</ins> [[CHI'24]](https://dl.acm.org/doi/full/10.1145/3613904.3642680).
 
-2. **Robust ML**: I like analyzing how healthcare ML models perform when tested against out-of-distribution data. In general, 
+1. **Robust ML**: I like analyzing how healthcare ML models perform when tested against out-of-distribution data. In general, 
 these models do not perform well, and proposing algorithms to address this issue is very interesting. 
 To this end, I have investigated the generalization of speech-based suicidal ideation detection [[UbiComp'24]](https://dl.acm.org/doi/abs/10.1145/3631452).
 
