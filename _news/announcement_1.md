@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:microphone: Presented our work MoodCapture at CHI 2024 in Honolulu.
+:microphone: Presented our work MoodCapture at CHI 2024 in Honolulu

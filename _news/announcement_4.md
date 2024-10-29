@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:bell: I will be interning at Nokia Bell Labs in Cambridge, UK for Summer 2024.
+:bell: I will be interning at Nokia Bell Labs in Cambridge, UK for Summer 2024
