@@ -30,5 +30,5 @@ and (c) depression detection from front-facing smartphone <ins>images</ins> [[CH
 these models do not perform well, and proposing algorithms to address this issue is very interesting. 
 To this end, I have investigated the generalization of speech-based suicidal ideation detection [[UbiComp'24]](https://dl.acm.org/doi/abs/10.1145/3631452).
 
-
+**Annoucement:** The [Campbell Lab](https://www.cs.dartmouth.edu/~campbell/) is looking to recruit 2-3 PhD students this cycle who will start in Fall 2025. I highly encourage students interested in sensing, machine learning, and healthcare to apply to [Dartmouth's PhD in CS program](https://web.cs.dartmouth.edu/graduate/applying/phd-computer-science). Feel free to reach out to me if you have any questions.
 
