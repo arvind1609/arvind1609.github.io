@@ -700,6 +700,10 @@ footer.sticky-bottom {
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
+          background-color: transparent;
+          transition: all 0.3s ease; /* Smooth transition */
+          padding: 5px 10px;
+          border-radius: 5px;
         }
       }
 
