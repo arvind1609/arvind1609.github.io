@@ -25,5 +25,5 @@ My interdisciplinary research centers on developing machine learning techniques 
 (b) suicidal ideation detection from <ins>speech</ins> [[UbiComp'24]](https://dl.acm.org/doi/abs/10.1145/3631452), 
 and (c) depression detection from front-facing smartphone <ins>images</ins> [[CHI'24]](https://dl.acm.org/doi/full/10.1145/3613904.3642680).
 
-1. **ML Genearlizability**: I am interested in analyzing the generalizability of healthcare ML models. To this end, I developed an open foundation model for PPG data that is evaluated on 10 different datasets with varying real-world conditions [[ICLR'25](https://arxiv.org/abs/2410.20542)]. I have also proposed a domain adaptation method and investigated the generalization of speech-based suicidal ideation detection [[UbiComp'24]](https://dl.acm.org/doi/abs/10.1145/3631452).
+1. **ML Generalizability**: I am interested in analyzing the generalizability of healthcare ML models. To this end, I developed an open foundation model for PPG data that is evaluated on 10 different datasets with varying real-world conditions [[ICLR'25](https://arxiv.org/abs/2410.20542)]. I have also proposed a domain adaptation method and investigated the generalization of speech-based suicidal ideation detection [[UbiComp'24]](https://dl.acm.org/doi/abs/10.1145/3631452).
 
