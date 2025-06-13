@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a 4th year PhD student at [Dartmouth College](https://web.cs.dartmouth.edu), advised by [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/).
+I am a Student Researcher at [Google](https://research.google/teams/health/) and a 4th year PhD student at [Dartmouth College](https://web.cs.dartmouth.edu), advised by [Prof. Andrew Campbell](https://www.cs.dartmouth.edu/~campbell/).
 Previously, I was a research intern at [Nokia Bell Labs (Cambridge, UK)](https://www.bell-labs.com/about/locations/cambridge-uk/#gref) (Summer 2024), and 
 an AI & Data Graduate Scientist at [AstraZeneca](https://www.astrazeneca.com/) (2019-2021).
 
