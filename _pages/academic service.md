@@ -9,9 +9,8 @@ nav_order: 6
 ### <u>Mentoring<u>
 
 [Wenxuan Xu](https://wen-xuan-xu.github.io/) (MS Research at Dartmouth College.)<br />
-
 [Aiwei Zhang](https://theivyzhang.github.io/) (Senior Thesis at Dartmouth College. Now a PhD Student at Georgia Tech.) <br />
-MotionTeller: Multi-modal Integration of Wearable Time-Series with LLMs for Health and Behavioral Understanding
+<i>MotionTeller: Multi-modal Integration of Wearable Time-Series with LLMs for Health and Behavioral Understanding</i>
 
 ### <u>Program Committee<u>
 Junior Roundtable Leader @ CHIL 2025 <br />
