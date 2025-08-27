@@ -6,12 +6,19 @@ description:
 nav: true
 nav_order: 6
 ---
+![My Photo](../assets/img/google.jpg)
+
+**Student Researcher** \| Jun 2025 - Sept 2025
+
+Working on large-scale health sensing algorithms.
+
+---
 
 ![My Photo](../assets/img/nokia_bell_labs_logo.jpeg) 
 
 **Research Intern** \| Jun 2024 - Sept 2024
 
-Investigating contrastive learning approaches for photoplethysmography signals
+Developed the first open foundation model for optical bio-signals (PPG).
 
 ---
 
