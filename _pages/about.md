@@ -23,3 +23,5 @@ My interdisciplinary research centers on developing machine learning techniques 
 2. **Un/Semi-supervised Learning**: I developed a method to detect rare life events from multi-modal sensing data [[CHIL'23]](https://proceedings.mlr.press/v209/pillai23a.html). Additionally, I have also proposed a domain adaptation method and investigated the generalization of speech-based suicidal ideation detection [[UbiComp'24a]](https://dl.acm.org/doi/abs/10.1145/3631452).
 
 3. **Behavior Modelling using Mobile Systems**: I develop machine learning models and contribute to mobile systems targeted at understanding mental health. In this area, I have developed models for depression detection from in-the-wild smartphone images [[CHI'24]](https://dl.acm.org/doi/full/10.1145/3613904.3642680), an intervention system for improving social interactions in individuals with schizophrenia [[IEEE PerCom Magazine'24]](https://ieeexplore.ieee.org/abstract/document/10485570), and maintain large-scale datasets with over 3 years of continuous sensing data [[UbiComp'24b]](https://dl.acm.org/doi/abs/10.1145/3643501).
+   
+[Download My CV (PDF)](/assets/pdf/cv.pdf)
